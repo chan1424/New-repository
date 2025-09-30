@@ -1,0 +1,10 @@
+# 파일
+main_print_v2.py
+asdf.py
+*.avi
+*.mp4
+
+# 폴더
+abs/
+.cscode/
+.venv/
