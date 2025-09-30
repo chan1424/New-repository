@@ -1,6 +1,6 @@
 # 1. 변수 선언
-name = "찬"
-age = 25
+name = "찬희"
+age = 26
 score = 95.5
 
 # 2. 기본 출력
@@ -26,13 +26,6 @@ print("This is line 1\nThis is line 2")
 # 8. end 옵션 (기본값은 줄바꿈 '\n')
 print("Hello", end=" ")
 print("World!")
-
-# 9. sep 옵션 (기본값은 공백 ' ')
-print("2025", "09", "23", sep="-")
-
-# 10. 딕셔너리/리스트 같이 출력
-data = {"name": name, "age": age, "score": score}
-print("Data:", data)
 
 # 11. f-string 내 계산식/함수 사용
 print(f"Next year age: {age + 1}")
